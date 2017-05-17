@@ -1,0 +1,8 @@
+{
+    "name": "janiscp/test-project",
+    "autoload": {
+        "psr-0" : {
+            "janiscp\\TestProj" : "src"
+        }
+    }
+}
